@@ -1,2 +1,3 @@
 # Code-Sample
-You can see the works sample here
+## npm install
+## npm run dev
